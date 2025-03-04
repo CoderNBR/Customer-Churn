@@ -72,5 +72,5 @@ Output Variable (Target):
 
 ## Repository Link (GitHub)
 
-1. [GitHub Link for Project "Comparing Classifiers"](https://github.com/CoderNBR/Customer-Churn)
+1. [GitHub Link for "Customer Churn Analysis"](https://github.com/CoderNBR/Customer-Churn)
 2. [Jupyter Notebook](https://github.com/CoderNBR/Customer-Churn/blob/main/CustomerChurn_EDA.ipynb)
